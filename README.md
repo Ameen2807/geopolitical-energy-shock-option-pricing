@@ -103,6 +103,12 @@ Key limitations include:
 - No stochastic interest rates
 - No explicit modeling of refining margins, taxes, inventories, or exchange rates
 
+## Article
+
+I also wrote a Medium article explaining the motivation, methodology, and results behind this project:
+
+[How Rising Gas Prices Led Me to Model Geopolitical Shock Risk](https://medium.com/@ameen.ahmed/when-markets-jump-how-rising-gas-prices-led-me-to-model-geopolitical-shock-risk-cc71c7d869b3)
+
 ## Takeaway
 
 Black-Scholes remains useful as a benchmark, but it can underestimate option values when the underlying asset is exposed to discontinuous geopolitical shocks.
